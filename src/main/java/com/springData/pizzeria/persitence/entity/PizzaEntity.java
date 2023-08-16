@@ -1,4 +1,4 @@
-package com.springData.pizzeria.persistence.entity;
+package com.springData.pizzeria.persitence.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

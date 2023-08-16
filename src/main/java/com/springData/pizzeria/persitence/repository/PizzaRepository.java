@@ -1,6 +1,6 @@
-package com.springData.pizzeria.persistence.repository;
+package com.springData.pizzeria.persitence.repository;
 
-import com.springData.pizzeria.persistence.entity.PizzaEntity;
+import com.springData.pizzeria.persitence.entity.PizzaEntity;
 import org.springframework.data.repository.ListCrudRepository;
 
 import java.util.List;

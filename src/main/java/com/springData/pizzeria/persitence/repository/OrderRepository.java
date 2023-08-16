@@ -1,6 +1,6 @@
-package com.springData.pizzeria.persistence.repository;
+package com.springData.pizzeria.persitence.repository;
 
-import com.springData.pizzeria.persistence.entity.OrderEntity;
+import com.springData.pizzeria.persitence.entity.OrderEntity;
 import org.springframework.data.repository.ListCrudRepository;
 
 import java.time.LocalDateTime;

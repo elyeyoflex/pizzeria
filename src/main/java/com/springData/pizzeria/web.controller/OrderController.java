@@ -1,6 +1,6 @@
 package com.springData.pizzeria.web.controller;
 
-import com.springData.pizzeria.persistence.entity.OrderEntity;
+import com.springData.pizzeria.persitence.entity.OrderEntity;
 import com.springData.pizzeria.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

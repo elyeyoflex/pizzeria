@@ -1,7 +1,7 @@
 package com.springData.pizzeria.service;
 
-import com.springData.pizzeria.persistence.entity.PizzaEntity;
-import com.springData.pizzeria.persistence.repository.PizzaRepository;
+import com.springData.pizzeria.persitence.entity.PizzaEntity;
+import com.springData.pizzeria.persitence.repository.PizzaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

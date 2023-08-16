@@ -1,4 +1,4 @@
-package com.springData.pizzeria.persistence.entity;
+package com.springData.pizzeria.persitence.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
