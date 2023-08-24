@@ -1,4 +1,4 @@
-package com.springData.pizzeria.persitence.entity;
+package com.springData.pizzeria.persitence.audit;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.MappedSuperclass;
